@@ -1,8 +1,13 @@
 {
   "attributes": {
-    "name": "PRRSV-2",
-    "refAccession": "DQ478308",
-    "refName": "PRRSV0004437"
+    "name": {
+      "value": "PRRSV-2",
+      "valueFriendly": "PRRSV-2"
+    },
+    "reference":{
+      "value": "DQ478308",
+      "valueFriendly": "PRRSV0004437"
+    }
   },
   "compatibility": {
     "cli": "3.0.0-alpha.0",
