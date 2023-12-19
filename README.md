@@ -58,6 +58,14 @@ python convert_v2_to_v3.py \
   --output-dir prrsv_v3
 ```
 
+Check if the `?dataset-url` still works for Nextclade v3:
+
+* https://nextclade-git-ui-2-nextstrain.vercel.app/dataset?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/prrsv_v3
+
+Okay, so something's still off:
+
+![](nextclade_v3_dataset_url_error.png)
+
 ## Summary of json changes
 
 ![](migrate_to_pathogen.png)
