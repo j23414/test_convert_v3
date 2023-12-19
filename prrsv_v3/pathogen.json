@@ -1,4 +1,12 @@
 {
+  "schemaVersion": "3.0.0",
+  "alignmentParams": {
+    "excessBandwidth": 9,
+    "terminalBandwidth": 100,
+    "allowedMismatches": 4,
+    "gapAlignmentSide": "right",
+    "minSeedCover": 0.1
+  },
   "attributes": {
     "name": {
       "value": "PRRSV-2",
@@ -60,7 +68,6 @@
       "enabled": true
     }
   },
-  "schemaVersion": "3.0.0",
   "version": {
     "tag": "unreleased"
   }
