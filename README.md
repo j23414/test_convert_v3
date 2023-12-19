@@ -58,4 +58,8 @@ python convert_v2_to_v3.py \
   --output-dir prrsv_v3
 ```
 
+## Summary of json changes
+
+![](migrate_to_pathogen.png)
+
 
