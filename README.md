@@ -1,3 +1,13 @@
+# Nextclade v3 web links
+
+* [prrsv_v3](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/prrsv_v3)
+* dengue_v3
+  * [all](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/all)
+  * [denv1](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv1)
+  * [denv2](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv2)
+  * [denv3](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv3)
+  * [denv4](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv4)
+
 # test_convert_v3
 
 Test conversion of to v3
@@ -62,7 +72,7 @@ Check if the `?dataset-url` still works for Nextclade v3:
 
 * https://nextclade-git-ui-2-nextstrain.vercel.app/dataset?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/prrsv_v3
 
-Okay, so something's still off:
+Okay, so something's still off --> Edit: This was still pointing at earlier versions, use "https://master.clades.nextstrain.org/" as the base of the url:
 
 ![](nextclade_v3_dataset_url_error.png)
 
