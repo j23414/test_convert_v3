@@ -1,8 +1,8 @@
 {
   "attributes": {
-    "name": "UNKNOWN",
-    "refAccession": "UNKNOWN",
-    "refName": "UNKNOWN"
+    "name": "Dengue virus All serotypes",
+    "refAccession": "NC_002640",
+    "refName": "NC_002640"
   },
   "compatibility": {
     "cli": "3.0.0-alpha.0",

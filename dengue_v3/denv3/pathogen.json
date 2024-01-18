@@ -1,8 +1,8 @@
 {
   "attributes": {
-    "name": "UNKNOWN",
-    "refAccession": "UNKNOWN",
-    "refName": "UNKNOWN"
+    "name": "Dengue virus DENV3 dataset",
+    "refAccession": "NC_001475",
+    "refName": "NC_001475"
   },
   "compatibility": {
     "cli": "3.0.0-alpha.0",
