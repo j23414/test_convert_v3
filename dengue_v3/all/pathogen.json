@@ -23,6 +23,9 @@
     "bugs": "https://github.com/nextstrain/nextclade_data/issues",
     "source code": "https://github.com/nextstrain/nextclade_data"
   },
+  "alignmentParams": {
+    "minSeedCover": 0.01
+  },
   "qc": {
     "frameShifts": {
       "enabled": false
