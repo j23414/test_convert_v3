@@ -1,12 +1,12 @@
 # Nextclade v3 web links
 
-* [prrsv_v3](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/prrsv_v3)
+* [prrsv_v3](https://clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/prrsv_v3)
 * dengue_v3
-  * [all](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/all)
-  * [denv1](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv1)
-  * [denv2](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv2)
-  * [denv3](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv3)
-  * [denv4](https://master.clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv4)
+  * [all](https://clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/all)
+  * [denv1](https://clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv1)
+  * [denv2](https://clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv2)
+  * [denv3](https://clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv3)
+  * [denv4](https://clades.nextstrain.org/?dataset-url=https://github.com/j23414/test_convert_v3/tree/main/dengue_v3/denv4)
 
 # test_convert_v3
 
